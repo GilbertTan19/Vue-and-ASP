@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eef5dd54-dab9-4ba4-8eed-c9a0eefe3d44": {
+      "ProjectGuid": "eef5dd54-dab9-4ba4-8eed-c9a0eefe3d44",
+      "DisplayName": "DAL_CRUD",
+      "ColorIndex": 0
+    },
+    "6cd8a105-da63-4b5d-abf7-eed7b13c0ade": {
+      "ProjectGuid": "6cd8a105-da63-4b5d-abf7-eed7b13c0ade",
+      "DisplayName": "BAL_CRUD",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

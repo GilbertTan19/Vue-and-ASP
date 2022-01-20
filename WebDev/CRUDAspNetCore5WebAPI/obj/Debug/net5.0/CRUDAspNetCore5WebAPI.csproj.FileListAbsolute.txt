@@ -1,0 +1,7 @@
+C:\Users\gilbe\source\repos\WebDev\CRUDAspNetCore5WebAPI\obj\Debug\net5.0\CRUDAspNetCore5WebAPI.csproj.AssemblyReference.cache
+C:\Users\gilbe\source\repos\WebDev\CRUDAspNetCore5WebAPI\obj\Debug\net5.0\CRUDAspNetCore5WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilbe\source\repos\WebDev\CRUDAspNetCore5WebAPI\obj\Debug\net5.0\CRUDAspNetCore5WebAPI.AssemblyInfoInputs.cache
+C:\Users\gilbe\source\repos\WebDev\CRUDAspNetCore5WebAPI\obj\Debug\net5.0\CRUDAspNetCore5WebAPI.AssemblyInfo.cs
+C:\Users\gilbe\source\repos\WebDev\CRUDAspNetCore5WebAPI\obj\Debug\net5.0\CRUDAspNetCore5WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\gilbe\source\repos\WebDev\CRUDAspNetCore5WebAPI\obj\Debug\net5.0\CRUDAspNetCore5WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gilbe\source\repos\WebDev\CRUDAspNetCore5WebAPI\obj\Debug\net5.0\CRUDAspNetCore5WebAPI.MvcApplicationPartsAssemblyInfo.cache

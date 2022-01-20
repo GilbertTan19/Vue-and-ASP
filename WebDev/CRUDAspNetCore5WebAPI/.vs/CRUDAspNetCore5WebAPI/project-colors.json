@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dcf73eb2-a16c-4c6b-9f0e-e4f51f48ee09": {
+      "ProjectGuid": "dcf73eb2-a16c-4c6b-9f0e-e4f51f48ee09",
+      "DisplayName": "CRUDAspNetCore5WebAPI",
+      "ColorIndex": 0
+    },
+    "f5beb46e-37df-4566-8985-44f38e79f20b": {
+      "ProjectGuid": "f5beb46e-37df-4566-8985-44f38e79f20b",
+      "DisplayName": "CRUD_DAL",
+      "ColorIndex": 1
+    },
+    "d78796f7-6d6d-4201-b25e-de943b34328f": {
+      "ProjectGuid": "d78796f7-6d6d-4201-b25e-de943b34328f",
+      "DisplayName": "CRUD_BAL",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

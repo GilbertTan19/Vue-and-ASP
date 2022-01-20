@@ -1,0 +1,12 @@
+C:\Users\gilbe\source\repos\WebDev\CRUD_BAL\bin\Debug\net5.0\CRUD_BAL.deps.json
+C:\Users\gilbe\source\repos\WebDev\CRUD_BAL\bin\Debug\net5.0\CRUD_BAL.dll
+C:\Users\gilbe\source\repos\WebDev\CRUD_BAL\bin\Debug\net5.0\ref\CRUD_BAL.dll
+C:\Users\gilbe\source\repos\WebDev\CRUD_BAL\bin\Debug\net5.0\CRUD_BAL.pdb
+C:\Users\gilbe\source\repos\WebDev\CRUD_BAL\obj\Debug\net5.0\CRUD_BAL.csproj.AssemblyReference.cache
+C:\Users\gilbe\source\repos\WebDev\CRUD_BAL\obj\Debug\net5.0\CRUD_BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilbe\source\repos\WebDev\CRUD_BAL\obj\Debug\net5.0\CRUD_BAL.AssemblyInfoInputs.cache
+C:\Users\gilbe\source\repos\WebDev\CRUD_BAL\obj\Debug\net5.0\CRUD_BAL.AssemblyInfo.cs
+C:\Users\gilbe\source\repos\WebDev\CRUD_BAL\obj\Debug\net5.0\CRUD_BAL.csproj.CoreCompileInputs.cache
+C:\Users\gilbe\source\repos\WebDev\CRUD_BAL\obj\Debug\net5.0\CRUD_BAL.dll
+C:\Users\gilbe\source\repos\WebDev\CRUD_BAL\obj\Debug\net5.0\ref\CRUD_BAL.dll
+C:\Users\gilbe\source\repos\WebDev\CRUD_BAL\obj\Debug\net5.0\CRUD_BAL.pdb
